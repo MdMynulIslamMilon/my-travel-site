@@ -1,0 +1,16 @@
+header{
+    text-align: center;
+    text-decoration: solid;
+    color: blue;
+    font-size: larger;
+}
+ul{
+    text-align: center;
+}
+li{
+    display:inline;
+    margin: 18px;  
+}
+a{
+    text-decoration: none;
+}
